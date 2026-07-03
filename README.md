@@ -60,25 +60,12 @@ COVID-19-Analysis-Dashboard/
 
 ---
 
-## 🎥 Dashboard Demo
+🎥 Dashboard
+<p align="center"> <img src="dashboard-demo.gif" alt="Monthly Sales & Revenue Dashboard Demo" width="1000"> </p>
 
-Add your GIF inside the **assets** folder and replace the path below.
+📸 Dashboard Preview
+<p align="center"> <img src="dashboard-preview.png" alt="Monthly Sales Dashboard Preview" width="1000"> </p>
 
-```markdown
-![Dashboard Demo](assets/dashboard-demo.gif)
-```
-
----
-
-## 📸 Dashboard Preview
-
-Add your dashboard screenshot inside the **assets** folder and replace the path below.
-
-```markdown
-![Dashboard Preview](assets/dashboard-preview.png)
-```
-
----
 
 ## 📈 Key Insights
 
